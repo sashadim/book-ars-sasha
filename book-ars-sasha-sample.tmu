@@ -1,0 +1,159 @@
+<TMU|<tuple|1.1.0|2026.2.0>>
+
+<style|<tuple|book-ars-sasha-v4|italian|number-europe|preview-ref|dark>>
+
+<\body>
+  \;
+
+  \;
+
+  \;
+
+  \;
+
+  \;
+
+  \;
+
+  \;
+
+  \;
+
+  \;
+
+  \;
+
+  <doc-data|<doc-title|Reliability test procedure>|<doc-subtitle|New Equipmement>|<doc-author|<author-data|<author-name|Alessandro D.>>>|<\doc-date>
+    Last updated 10/03/2026
+
+    Revision 0
+
+    \;
+  </doc-date>|<doc-misc|<copyright> 2025 Alessandro Dimichino. All rights reserved.>>
+
+  <abstract-data|<\abstract>
+    Documente abstract
+
+    \;
+  </abstract>>
+
+  <set-this-page-footer|>
+
+  <page-break>
+
+  <\table-of-contents|toc>
+    <surround|<vspace*|2em>|<vspace|5pt>|<with|font-family|ss|<with|color|dark red|<with|font-shape|small-caps|math-font-shape|small-caps|Parte I<space|7pt>The main project>>>>
+
+    <vspace*|1em><tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
+      <\with|par-left|10pt|par-first|<quote|<tmlen|-21253.6>>|par-mode|left>
+        <yes-indent><with|font-family|ss|<with|font-shape|small-caps|math-font-shape|small-caps|Capitolo 1<space|5pt>Objectives>><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+      </with>
+    </cell>|<cell|<pageref|auto-2>>>>>>
+
+    <tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
+      <\with|par-left|<quote|<tmlen|106268>>|par-first|<quote|<tmlen|-53134>>|par-mode|left>
+        <yes-indent><with|font-family|ss|<resize|1.1|||<value|section-toc-width>|>Section sample><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+      </with>
+    </cell>|<cell|<pageref|auto-3>>>>>>
+
+    <tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
+      <\with|par-left|<quote|<tmlen|170029>>|par-first|<quote|<tmlen|-63760.8>>|par-mode|left>
+        <yes-indent><with|font-family|ss|<resize|1.1.1|||<value|subsection-toc-width>|>Sub-section><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+      </with>
+    </cell>|<cell|<pageref|auto-4>>>>>>
+  </table-of-contents>
+
+  <new-page>
+
+  <part|The main project>
+
+  <new-page>
+
+  <chapter|Objectives>
+
+  \;
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  <section|Section sample>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  <subsection|Sub-section>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  <subsubsection|Sub-sub-section>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  \;
+
+  <\padded>
+    <\itemize>
+      <item>bullets in dark grey
+
+      <item>another bullet
+    </itemize>
+  </padded>
+
+  It applies also to numbered list (list inside a padded block)
+
+  <\padded>
+    <\enumerate>
+      <item>first
+
+      <item>second
+    </enumerate>
+  </padded>
+
+  \;
+</body>
+
+<\initial>
+  <\collection>
+    <associate|page-medium|paper>
+    <associate|page-screen-margin|false>
+  </collection>
+</initial>
+
+<\references>
+  <\collection>
+    <associate|auto-1|<tuple|I|3|..\\Documents\\MiaProfessione\\Progetti\\4-Tek\\10 Relazioni\\AffidabilitÃă\\Reliability.tmu>>
+    <associate|auto-2|<tuple|1|4|..\\Documents\\MiaProfessione\\Progetti\\4-Tek\\10 Relazioni\\AffidabilitÃă\\Reliability.tmu>>
+    <associate|auto-3|<tuple|1.1|4|..\\Documents\\MiaProfessione\\Progetti\\4-Tek\\10 Relazioni\\AffidabilitÃă\\Reliability.tmu>>
+    <associate|auto-4|<tuple|1.1.1|4|..\\Documents\\MiaProfessione\\Progetti\\4-Tek\\10 Relazioni\\AffidabilitÃă\\Reliability.tmu>>
+  </collection>
+</references>
+
+<\auxiliary>
+  <\collection>
+    <\associate|toc>
+      <surround|<vspace*|2em>|<vspace|5pt>|<with|font-family|ss|<with|color|dark red|<with|font-shape|small-caps|math-font-shape|small-caps|Parte I<space|7pt>The main project>>>>
+
+      <vspace*|1em><tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
+        <\with|par-left|<quote|10pt>|par-first|<quote|<tmlen|-21253.6>>|par-mode|<quote|left>>
+          <yes-indent><with|font-family|<quote|ss>|<with|font-shape|<quote|small-caps>|math-font-shape|<quote|small-caps>|Capitolo 1<space|5pt>Objectives>><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+        </with>
+      </cell>|<cell|<pageref|auto-2>>>>>>
+
+      <tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
+        <\with|par-left|<quote|<tmlen|106268>>|par-first|<quote|<tmlen|-53134>>|par-mode|<quote|left>>
+          <yes-indent><with|font-family|<quote|ss>|<resize|1.1|||<value|section-toc-width>|>Section sample><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+        </with>
+      </cell>|<cell|<pageref|auto-3>>>>>>
+
+      <tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
+        <\with|par-left|<quote|<tmlen|170029>>|par-first|<quote|<tmlen|-63760.8>>|par-mode|<quote|left>>
+          <yes-indent><with|font-family|<quote|ss>|<resize|1.1.1|||<value|subsection-toc-width>|>Sub-section><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+        </with>
+      </cell>|<cell|<pageref|auto-4>>>>>>
+    </associate>
+  </collection>
+</auxiliary>
