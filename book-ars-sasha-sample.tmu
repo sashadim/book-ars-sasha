@@ -1,6 +1,6 @@
-<TMU|<tuple|1.1.0|2026.2.0>>
+<TMU|<tuple|1.1.0|2026.3.0>>
 
-<style|<tuple|book-ars-sasha-v4|italian|number-europe|preview-ref|dark>>
+<style|<tuple|report-book-ars-sasha-v1-rm|italian|number-europe|preview-ref>>
 
 <\body>
   \;
@@ -24,41 +24,55 @@
   \;
 
   <doc-data|<doc-title|Reliability test procedure>|<doc-subtitle|New Equipmement>|<doc-author|<author-data|<author-name|Alessandro D.>>>|<\doc-date>
-    Last updated 10/03/2026
+    Last updated 04/11/2026
+  </doc-date>>
 
-    Revision 0
+  <\sasha-direct-client>
+    Client
+  </sasha-direct-client>
 
-    \;
-  </doc-date>|<doc-misc|<copyright> 2025 Alessandro Dimichino. All rights reserved.>>
+  <\wide-tabular>
+    <tformat|<cwith|1|-1|1|-1|cell-hyphen|t>|<table|<row|<\cell>
+      <\sasha-client-contact>
+        Name Surname Client Contact 1
 
-  <abstract-data|<\abstract>
-    Documente abstract
+        \;
+      </sasha-client-contact>
+    </cell>|<\cell>
+      Logo Client
+    </cell>>>>
+  </wide-tabular>
 
-    \;
-  </abstract>>
+  <\sasha-document-wp-version>
+    2026–TEMPL–001
+  </sasha-document-wp-version>
 
-  <set-this-page-footer|>
+  <sasha-footer-on>
+
+  \;
+
+  <set-this-page-footer|<sasha-doc-mittente-first-page-footer-2026>>
 
   <page-break>
 
   <\table-of-contents|toc>
-    <surround|<vspace*|2em>|<vspace|5pt>|<with|font-family|ss|<with|color|dark red|<with|font-shape|small-caps|math-font-shape|small-caps|Parte I<space|7pt>The main project>>>>
+    <surround|<vspace*|2em>|<vspace|5pt>|<with|font-family|ss|<with|color|black|<with|font-shape|small-caps|math-font-shape|small-caps|<locus|<id|%1543634B6A8-15432F462D8--4C091BE0>|<link|hyperlink|<id|%1543634B6A8-15432F462D8--4C091BE0>|<url|#auto-1>>|Parte I<space|7pt>The main project>>>>>
 
     <vspace*|1em><tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
       <\with|par-left|10pt|par-first|<quote|<tmlen|-21253.6>>|par-mode|left>
-        <yes-indent><with|font-family|ss|<with|font-shape|small-caps|math-font-shape|small-caps|Capitolo 1<space|5pt>Objectives>><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+        <yes-indent><with|font-family|ss|<with|color|darker grey|<with|font-shape|small-caps|math-font-shape|small-caps|<locus|<id|%1543634B6A8-154646CA180-18A96F30>|<link|hyperlink|<id|%1543634B6A8-154646CA180-18A96F30>|<url|#auto-2>>|Capitolo 1<space|5pt>Objectives>>>><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
       </with>
-    </cell>|<cell|<pageref|auto-2>>>>>>
+    </cell>|<cell|<with|color|red|<pageref|auto-2>>>>>>>
 
     <tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
       <\with|par-left|<quote|<tmlen|106268>>|par-first|<quote|<tmlen|-53134>>|par-mode|left>
-        <yes-indent><with|font-family|ss|<resize|1.1|||<value|section-toc-width>|>Section sample><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+        <yes-indent><with|font-family|ss|<with|color|dark grey|<locus|<id|%1543634B6A8-15468E38878-49468F3B>|<link|hyperlink|<id|%1543634B6A8-15468E38878-49468F3B>|<url|#auto-3>>|<resize|1.1|||<value|section-toc-width>|>Section sample>>><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
       </with>
     </cell>|<cell|<pageref|auto-3>>>>>>
 
     <tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
       <\with|par-left|<quote|<tmlen|170029>>|par-first|<quote|<tmlen|-63760.8>>|par-mode|left>
-        <yes-indent><with|font-family|ss|<resize|1.1.1|||<value|subsection-toc-width>|>Sub-section><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+        <yes-indent><with|font-family|ss|<with|color|dark grey|<locus|<id|%1543634B6A8-15432F651A0--790C845>|<link|hyperlink|<id|%1543634B6A8-15432F651A0--790C845>|<url|#auto-4>>|<resize|1.1.1|||<value|subsection-toc-width>|>Sub-section>>><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
       </with>
     </cell>|<cell|<pageref|auto-4>>>>>>
   </table-of-contents>
@@ -120,38 +134,39 @@
   <\collection>
     <associate|page-medium|paper>
     <associate|page-screen-margin|false>
+    <associate|stem-doc-id|5686792E-F31D-4530-88A3-BA440175BD70>
   </collection>
 </initial>
 
 <\references>
   <\collection>
-    <associate|auto-1|<tuple|I|3|..\\Documents\\MiaProfessione\\Progetti\\4-Tek\\10 Relazioni\\AffidabilitÃă\\Reliability.tmu>>
-    <associate|auto-2|<tuple|1|4|..\\Documents\\MiaProfessione\\Progetti\\4-Tek\\10 Relazioni\\AffidabilitÃă\\Reliability.tmu>>
-    <associate|auto-3|<tuple|1.1|4|..\\Documents\\MiaProfessione\\Progetti\\4-Tek\\10 Relazioni\\AffidabilitÃă\\Reliability.tmu>>
-    <associate|auto-4|<tuple|1.1.1|4|..\\Documents\\MiaProfessione\\Progetti\\4-Tek\\10 Relazioni\\AffidabilitÃă\\Reliability.tmu>>
+    <associate|auto-1|<tuple|I|3>>
+    <associate|auto-2|<tuple|1|4>>
+    <associate|auto-3|<tuple|1.1|4>>
+    <associate|auto-4|<tuple|1.1.1|4>>
   </collection>
 </references>
 
 <\auxiliary>
   <\collection>
     <\associate|toc>
-      <surround|<vspace*|2em>|<vspace|5pt>|<with|font-family|ss|<with|color|dark red|<with|font-shape|small-caps|math-font-shape|small-caps|Parte I<space|7pt>The main project>>>>
+      <surround|<vspace*|2em>|<vspace|5pt>|<with|font-family|ss|<with|color|black|<with|font-shape|small-caps|math-font-shape|small-caps|<locus|<id|%214CA604C08-214C70EF490--4C091DFB>|<link|hyperlink|<id|%214CA604C08-214C70EF490--4C091DFB>|<url|#auto-1>>|Parte I<space|7pt>The main project>>>>>
 
       <vspace*|1em><tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
         <\with|par-left|<quote|10pt>|par-first|<quote|<tmlen|-21253.6>>|par-mode|<quote|left>>
-          <yes-indent><with|font-family|<quote|ss>|<with|font-shape|<quote|small-caps>|math-font-shape|<quote|small-caps>|Capitolo 1<space|5pt>Objectives>><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+          <yes-indent><with|font-family|<quote|ss>|<with|color|<quote|darker grey>|<with|font-shape|<quote|small-caps>|math-font-shape|<quote|small-caps>|<locus|<id|%214CA604C08-214C70EA0B8--22F56138>|<link|hyperlink|<id|%214CA604C08-214C70EA0B8--22F56138>|<url|#auto-2>>|Capitolo 1<space|5pt>Objectives>>>><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
         </with>
-      </cell>|<cell|<pageref|auto-2>>>>>>
+      </cell>|<cell|<with|color|<quote|red>|<pageref|auto-2>>>>>>>
 
       <tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
         <\with|par-left|<quote|<tmlen|106268>>|par-first|<quote|<tmlen|-53134>>|par-mode|<quote|left>>
-          <yes-indent><with|font-family|<quote|ss>|<resize|1.1|||<value|section-toc-width>|>Section sample><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+          <yes-indent><with|font-family|<quote|ss>|<with|color|<quote|dark grey>|<locus|<id|%214CA604C08-214C70E7470-4946891E>|<link|hyperlink|<id|%214CA604C08-214C70E7470-4946891E>|<url|#auto-3>>|<resize|1.1|||<value|section-toc-width>|>Section sample>>><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
         </with>
       </cell>|<cell|<pageref|auto-3>>>>>>
 
       <tformat|<tformat|<twith|table-width|1par>|<cwith|1|1|1|1|cell-hpart|1>|<cwith|1|1|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-valign|b>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|2|2|cell-width|1.8em>|<cwith|1|-1|1|-1|cell-lsep|0cm>|<cwith|1|-1|1|-1|cell-rsep|0cm>|<cwith|1|1|1|1|cell-halign|L>|<table|<row|<\cell>
         <\with|par-left|<quote|<tmlen|170029>>|par-first|<quote|<tmlen|-63760.8>>|par-mode|<quote|left>>
-          <yes-indent><with|font-family|<quote|ss>|<resize|1.1.1|||<value|subsection-toc-width>|>Sub-section><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
+          <yes-indent><with|font-family|<quote|ss>|<with|color|<quote|dark grey>|<locus|<id|%214CA604C08-214F2F08210--790CE62>|<link|hyperlink|<id|%214CA604C08-214F2F08210--790CE62>|<url|#auto-4>>|<resize|1.1.1|||<value|subsection-toc-width>|>Sub-section>>><datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.05fn>.<space|0.05fn>>>>>|<htab|5mm>>
         </with>
       </cell>|<cell|<pageref|auto-4>>>>>>
     </associate>
